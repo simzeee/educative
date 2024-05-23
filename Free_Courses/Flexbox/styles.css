@@ -1,0 +1,11 @@
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  width: 100px;
+  height: 100px;
+  background-color: #8cacea;
+  margin: 8px;
+}
